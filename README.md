@@ -1,4 +1,5 @@
-**WIC - WinterGate Intelligence Collective (NCTC)**
+## **WIC - WinterGate Intelligence Collective (NCTC)**
+
 **__NoTrac3 Covenant Counter Threat Coalition - WinterGate Intelligence Collective__**:  `The service that actually protects people when the platform doesn’t.` Join us. Report. Protect.
 - __NoTrac3__: Where the shadows end, and the people stand.
 
