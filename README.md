@@ -4,7 +4,7 @@
 
 ---
 
-> U N I F I E D   A L L I A N C E
+> **U N I F I E D     A L L I A N C E**
 - ```Primary goal of identifying, analyzing, and mitigating collective threats. ```
 - ```Cyber Threat Intelligence Collective```
 - ```We investigate dangerous communities, maintain blacklists, conduct OSINT, raise awareness through exposure primarily but raising awareness is one of the top things we do. We document and try to compile further evidence ourselves, make a permanent record of their abuse + evidence for anyone to inspect and download for themselves. We also share resources and tools for everyone to use and many we keep private that will require purchase or mutual resource exchange or direct collaboration to get stuff for free or for us to consider giving access to any tools we consider to keep private for agent use etc.```
