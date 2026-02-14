@@ -36,5 +36,5 @@ We are the opposite. `"We are for you and where you are, we are there. waiting t
 ---
 
 # NT3
- __***NoTrac3***__
+ __***NoTrac3***__: ``Simply stands for (N)o(T)rac(3).``
  
