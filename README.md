@@ -31,7 +31,7 @@ We are the opposite. `"We are for you and where you are, we are there. waiting t
 ---
 
 # NCTC
-**NoTrac3 Counter Threat Coalition**: ``☂ is a Small, elite, volunteer-run OSINT & threat-intelligence cell specializing in ethical dismantling of grooming, coercion, psychological-torture, framing, targeted harassment, and 764-adjacent abuse networks on Discord and adjacent platforms.``
+**NoTrac3 Counter Threat Coalition**: ``☂ is a Small, elite, volunteer-run OSINT & threat-intelligence cell specializing in ethical dismantling of grooming, coercion, psychological-torture, framing, targeted harassment, and 764-adjacent abuse networks on social platforms like Discord and adjacent but not limited too.``
 
 ---
 
