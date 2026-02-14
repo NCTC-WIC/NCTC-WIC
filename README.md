@@ -10,6 +10,8 @@
 - ```We investigate dangerous communities, maintain blacklists, conduct OSINT, raise awareness through exposure primarily but raising awareness is one of the top things we do. We document and try to compile further evidence ourselves, make a permanent record of their abuse + evidence for anyone to inspect and download for themselves. We also share resources and tools for everyone to use and many we keep private that will require purchase or mutual resource exchange or direct collaboration to get stuff for free or for us to consider giving access to any tools we consider to keep private for agent use etc.```
 - ```We redact direct personal identifiers (person names, full emails, locations, phones) in public facing documentation to respect the OSINT community and in order to follow applicable laws that state no personal identifies.```
 
+--
+
 > __WHAT IS **COM**?__ ```In the context of Discord and online clanning communities (especially military/gunfight/roleplay groups), "com clan" or "com" is short for "communications clan" or "competitive clan." It refers to a highly organized, structured Discord-based group that functions like a small society or military unit, with ranks, leadership hierarchies, events, raids, alliances, diplomacy, and often a strong emphasis on internal communication (via voice/text channels, bots, and announcements). These clans are typically "active" — meaning they compete, hold tryouts, host trainings, participate in wars or matches, and engage in ongoing drama or rivalries with other com clans. Unlike casual hangout servers, com clans have a serious, goal-oriented vibe, often with their own lore, uniforms, and codes of conduct, and they view themselves as elite or professional within the niche.```
 
 ---
